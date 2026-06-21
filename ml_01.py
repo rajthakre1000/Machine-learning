@@ -2,7 +2,7 @@
 #Expert system: (use many if else conditions by any expert) ex. chess 
 # Knowledge base > inference engine > user interface
 
-# ML (not explicite programming (dont write rule for each condition))
+# ML (not explicite programming (dont write rule for each condition
 # find pattern in data and and predict output
 # system generate rules
 
